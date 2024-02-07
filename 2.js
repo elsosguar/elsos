@@ -42,13 +42,4 @@
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("serverOpen").click();
 //]]>
-</script>
-<script>
-document.addEventListener('DOMContentLoaded', function(){
-  var reportButton = document.querySelector(".Report");
-  if (reportButton) {
-    reportButton.addEventListener('click', function(){
-      window.location.href = "https://superseriesnovelas.online/Reporte/reportes.php"; // Cambia esto por la URL a la que deseas redirigir
-    });
-  }
-});
+ 
