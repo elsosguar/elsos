@@ -43,17 +43,13 @@
 --breakpoint-xl: 1200px;
 --gtc-raf: repeat(auto-fill, minmax(160px, 1fr));
 --font-family-sans-serif: "Poppins",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
---font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-}
+--font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;}
 @media (min-width:1279px){:root{
---gta-ms: "m s";
-}}
+--gta-ms: "m s";}}
 @media (max-width:1279px){:root{
---gta-ms: "m""s";
-}}
+--gta-ms: "m""s";}}
 @media (max-width:768px){:root{
---gtc-raf: repeat(auto-fill, minmax(130px, 1fr));
-}}
+--gtc-raf: repeat(auto-fill, minmax(130px, 1fr));}}
 *,::before,::after{box-sizing:border-box;}
 svg{box-sizing:content-box;}
 html{scroll-behavior:smooth;height:100%;overflow:auto
@@ -62,7 +58,7 @@ body,html{height:100%;position:relative;}
 body{margin:0;font-family:Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-size:.94rem;font-weight:400;line-height:1.5;color:#aaa;text-align:left;background-color:#0e0e0e;}
 [tabindex="-1"]:focus:not(:focus-visible){outline:0!important;}
 input{accent-color:#8a3324;}
-.server_option {background: var(--secondary);padding: 15px;border-radius: .3rem;margin-bottom: 1.66rem;}#server .DagPlayOpt:hover {background: #363636;}.servers {margin-bottom: 10px;display: flex;justify-content: flex-end;gap: 5px;}.tabs span {color: #525252;cursor: pointer;padding: 2px 5px;border-radius: .25rem;font-weight: 600;font-size: .98em;transition: all .15s;}.tabs span.active {color: #eee;}.DagTo .icon:hover {background: #141414;}.tabs span:hover,.tabs a:hover {color: #787878;}.serverEpisode {display: none}.video-nav .icon a {color: #888}
+.server_option {background: var(--secondary);padding: 15px;border-radius: .3rem;margin-bottom: 1.66rem;}#server .DagPlayOpt:hover {background: #363636;}.servers {margin-bottom: 10px;display: flex;justify-content: flex-end;gap: 5px;}.tabs span {color: #525252;cursor: pointer;padding: 2px 5px;border-radius: .25rem;font-weight: 600;font-size: .98em;transition: all .15s;}.tabs span.active {color: #d50000;}.DagTo .icon:hover {background: #141414;}.tabs span:hover,.tabs a:hover {color: #f10000;}.serverEpisode {display: none}.video-nav .icon a {color: #888}
 .break-word {word-wrap: break-word}
 .DagTo{margin-bottom:25px;width:100%;background:var(--gray-dark);border-radius:2px;padding-bottom:0}.DagPlaArea{width:100%;transition:width .2s;position:relative;padding:0;overflow:hidden;line-height:20px;border-bottom-right-radius:.3rem;border-bottom-left-radius:.3rem;}#server{overflow:hidden;}
 #server ul{list-style-type:none;margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}
@@ -70,35 +66,9 @@ input{accent-color:#8a3324;}
 #shadow,
 .PlayShare.None
 {display:none;transition:.5s}.tabs .tablinks {background-color: red;color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px; }.tabs .tablinks:hover {background-color: darkred;}
-.tabs .tablinks.active {background-color: darkred;}
+.tabs .tablinks.active {background-color: white;}
 .server-selection-title {text-align: center;margin-bottom: 55px; }
-.server-selection-text {color: white;font-weight: bold;font-size: 2em;margin: 0;padding: 0;
-}
-.chapter-name {
-    font-size: 2em;
-    color: white;
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-    
-}
-
-#initialMessage {
-    color: white;
-    text-align: center;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.5em;
-    height: 56.25vw;
-    max-height: 100%;
-}
-
-/* Asegurarse de que el contenedor del iframe tenga el mismo tamaño que el iframe */
-#pembed {
-    width: 100%;
-    height: 56.25vw; /* 16:9 aspect ratio */
-    max-height: 100%;
-}
- 
+.server-selection-text {color: white;font-weight: bold;font-size: 2em;margin: 0;padding: 0;}
+.chapter-name {font-size: 2em;color: white;display: block;text-align: center;margin: 0 auto;}
+#initialMessage {color: white;text-align: center;padding: 20px;display: flex;justify-content: center;align-items: center;font-size: 1.5em;height: 56.25vw;max-height: 100%;}
+#pembed {width: 100%;height: 56.25vw;max-height: 100%;}
