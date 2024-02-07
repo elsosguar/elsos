@@ -1,4 +1,4 @@
-//<![CDATA[
+  //<![CDATA[
 (function () {
   const e = document.querySelectorAll(".DagPlayOpt");
   e.length > 0 && (e.forEach(t => {
@@ -40,6 +40,5 @@
 }
 
 // Get the element with id="defaultOpen" and click on it
-document.getElementById("serverOpen").click();
+document.getElementById("serverOpen");
 //]]>
- 
