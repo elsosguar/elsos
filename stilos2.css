@@ -55,7 +55,7 @@ svg{box-sizing:content-box;}
 html{scroll-behavior:smooth;height:100%;overflow:auto
 font-family:sans-serif;}
 body,html{height:100%;position:relative;}
-body{margin:0;font-family:Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-size:.94rem;font-weight:400;line-height:1.5;color:#aaa;text-align:left;background-color:#0e0e0e;}
+body{margin:0;font-family:Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-size:.94rem;font-weight:400;line-height:1.5;color:#aaa;text-align:left;background-color:#0e0e0e;padding: 0 20px;margin: 20px 0;}
 [tabindex="-1"]:focus:not(:focus-visible){outline:0!important;}
 input{accent-color:#8a3324;}
 .server_option {background: var(--secondary);padding: 15px;border-radius: .3rem;margin-bottom: 1.66rem;}#server .DagPlayOpt:hover {background: #363636;}.servers {margin-bottom: 10px;display: flex;justify-content: flex-end;gap: 5px;}.tabs span {color: #525252;cursor: pointer;padding: 2px 5px;border-radius: .25rem;font-weight: 600;font-size: .98em;transition: all .15s;}.tabs span.active {color: #d50000;}.DagTo .icon:hover {background: #141414;}.tabs span:hover,.tabs a:hover {color: #f10000;}.serverEpisode {display: none}.video-nav .icon a {color: #888}
@@ -71,4 +71,9 @@ input{accent-color:#8a3324;}
 .server-selection-text {color: white;font-weight: bold;font-size: 2em;margin: 0;padding: 0;}
 .chapter-name {font-size: 2em;color: white;display: block;text-align: center;margin: 0 auto;}
 #initialMessage {color: white;text-align: center;padding: 20px;display: flex;justify-content: center;align-items: center;font-size: 1.5em;height: 56.25vw;max-height: 100%;}
-#pembed {width: 100%;height: 56.25vw;max-height: 100%;}
+#pembed {
+  width: calc(100% - 40px); /* Reducir el ancho total por 40px */
+  height: calc(56.25vw - 40px); /* Reducir la altura total por 40px */
+  max-height: calc(100% - 40px); /* Reducir la altura máxima por 40px */
+  margin: 20px; /* Añadir un margen de 20px a todos los lados */
+}
