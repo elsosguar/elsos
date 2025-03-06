@@ -1,0 +1,2958 @@
+<!DOCTYPE html>
+<!--[if IE 7 | IE 8]>
+<html class="ie" dir="ltr">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>DramaFun</title>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge,chrome=1">
+<meta name="title" content="DramaFun" />
+<meta name="keywords" content="series turcas tv , Doramas , Películas  , Sub Español , Gratis , novelas , telenovela , ennovelas , telemundo ,  anime , anime online , anime sub , anime latino" />
+<meta name="description" content="DramaFun es el mejor sitio web completamente gratis ennovelas , el lugar donde puedes encontrar tus novelas y serie turcas tv y Doramas y Películas y anime Online Sub Español HD Completas ." />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="alternate" type="application/rss+xml" title="DramaFun" href="https://ww2.dramafuntv.com/rss.php" />
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://dramafuntv.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://dramafuntv.com/search.php?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"name": "dramafun",
+		"url": "https://dramafuntv.com",
+		"logo": "https://dramafuntv.com/uploads/custom-logo.png",
+		"sameAs": "https://www.facebook.com/myegytv"
+	}
+</script>
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="https://ww2.dramafuntv.com/templates/3osss/css/bootstrap.min.css">
+
+<!--[if lt IE 9]>
+<script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="https://ww2.dramafuntv.com/templates/3osss/css/jasny-bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://ww2.dramafuntv.com/templates/3osss/css/echo.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://ww2.dramafuntv.com/templates/3osss/css/animate.min.css">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,300,500,700|Noticia+Text:400,400italic,700">
+<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://ww2.dramafuntv.com/templates/3osss/css/custom.css">
+<link rel="canonical" href="https://ww2.dramafuntv.com/home2"/>
+<script type="text/javascript">
+var MELODYURL = "https://ww2.dramafuntv.com";
+var MELODYURL2 = "https://ww2.dramafuntv.com";
+var TemplateP = "https://ww2.dramafuntv.com/templates/3osss";
+var _LOGGEDIN_ = false;
+ 
+
+var pm_video_data = {
+	
+	uniq_id: "",
+	url: "",
+	duration: 0,
+	duration_str: "",
+	category: "".split(','),
+	category_str: "",
+	featured: 0,
+	restricted: 0,
+	allow_comments: 0,
+	allow_embedding: 0,
+	is_stream: false,
+	views: 0,
+	likes: 0,
+	dislikes: 0,
+	publish_date_str: "",
+	publish_date_timestamp: 0,
+	embed_url: "",
+	thumb_url: "",
+	preview_image_url: "",
+	title: '',
+	autoplay_next: false,
+	autoplay_next_url: ""
+
+}
+
+</script>
+
+<script type="text/javascript">
+ var pm_lang = {
+	lights_off: "Lights off",
+	lights_on: "Lights on",
+	validate_name: "Please enter a name",
+	validate_username: "Please enter a username",
+	validate_pass: "Please provide a password",
+	validate_captcha: "Please enter the validation code",
+	validate_email: "Please enter a valid email address",
+	validate_agree: "Please accept our policy",
+	validate_name_long: "Your name must consist of at least 2 characters",
+	validate_username_long: "Your username must consist of at least 2 characters",
+	validate_pass_long: "Your password must be at least 5 characters long",
+	validate_confirm_pass_long: "Please enter the same password as above",
+	choose_category: "Please choose a category",
+	validate_select_file: "No file was selected/uploaded.",
+	validate_video_title: "Please enter a title for this video",
+	please_wait: "Loading...",
+	// upload video page
+	swfupload_status_uploaded: "Uploaded",
+	swfupload_status_pending: "Continue with the rest of the form.",
+	swfupload_status_queued: "Queued",
+	swfupload_status_uploading: "Uploading...",
+	swfupload_file: "File",
+	swfupload_btn_select: "Select",
+	swfupload_btn_cancel: "Cancel",
+	swfupload_status_error: "Error",
+	swfupload_error_oversize: "Size of the selected file(s) is greater than allowed limit",
+	swfupload_friendly_maxsize: "",
+	upload_errmsg2: "Bad file type. This type of files (extensions) is not allowed.",
+	// playlist
+	playlist_delete_confirm: "Are you sure you want to permanently delete this playlist?\n\nClick 'Cancel' to stop, 'OK' to delete.",
+	playlist_delete_item_confirm: "You are about to remove this video from your playlist.\n\nClick 'Cancel' to stop, 'OK' to delete.",
+	show_more: "Show more",
+	show_less: "Show less",
+	delete_video_confirmation: "Are you sure you want to delete this video?",
+	browse_all: "Browse All"
+ }
+</script>
+
+
+<style type="text/css"></style>
+</head>
+<body>
+
+<nav id="myNavmenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+	<div class="navslide-wrap">
+		<ul class="list-unstyled">
+			<li class="nav-menu-item-active"><a href="https://ww2.dramafuntv.com/index.php"><i class="mico mico-home"></i>Home</a></li>
+			<li class=""><a href="https://ww2.dramafuntv.com/moslslat.php"><i class="mico mico-live_tv"></i>Todas las series</a></li>
+						<li><a class="ajax-modal" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="mico mico-perm_identity"></i>Sign in</a></li>
+							
+				</ul>
+		<div class="navslide-divider"></div>
+		
+		<div class="navslide-header"><a href="https://ww2.dramafuntv.com/category.php">Categories</a></div>
+		<ul class="list-unstyled">
+			<li><a href="https://ww2.dramafuntv.com/topvideos.php">Popular</a></li>
+			<li><a href="https://ww2.dramafuntv.com/newvideos.php">New</a></li>
+			<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=Novelas-y-Telenovelas-Completas" class="">Novelas y Telenovelas Completas</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=series-y-novelas-turcas-en-espanol" class="">Novelas Turcas (Audio)</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=novelas-turcas-subtituladas" class="">Novelas Turcas Subtituladas</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=Series" class="">Series</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=Reality-TV" class="">Reality-TV</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=peliculas-subtituladas" class="">Pel&iacute;culas Subtituladas</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=peliculas-audio-espanol-latino" class="">Pel&iacute;culas Audio Espa&ntilde;ol, Latino</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=Anime" class="">Anime</a></li>
+<li class=""><a href="https://ww2.dramafuntv.com/category.php?cat=Doramas-Sub-Espanol" class="">Doramas Sub Espa&ntilde;ol</a></li>
+
+		</ul>
+		<div class="navslide-divider"></div>
+
+		
+
+
+	</div>
+</nav>
+
+<div class="container-fluid no-padding">
+<header class="pm-top-head header-bg">
+	<div class="row">
+		<div class="col-xs-7 col-sm-4 col-md-4">
+			<a href="#" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body" id="navslide-toggle"><span>Show menu</span></a>
+			<div class="header-logo">
+							<h3><a href="https://ww2.dramafuntv.com/home2" rel="home">DramaFun</a></h3>
+						</div>
+		</div>
+		<div class="hidden-xs col-sm-4 col-md-4" id="pm-top-search">
+						<form action="https://ww2.dramafuntv.com/search.php" method="get" id="search" class="pm-search-form" name="search" onSubmit="return validateSearch('true');">
+				<div class="input-group">
+					<input class="form-control" id="pm-search" size="16" name="keywords" type="text" placeholder="Search..." x-webkit-speech="x-webkit-speech" onwebkitspeechchange="this.form.submit();" onblur="fill();" autocomplete="off">
+					<input class="form-control" id="pm-video-id" size="16" name="video-id" type="hidden">
+					<span class="input-group-btn">
+						<button class="btn btn-primary" type="submit"><i class="fa fa-search"></i></button>
+					</span>
+				</div><!-- /input-group -->
+			</form>
+			<div class="pm-search-suggestions hide-me">
+				<ul class="pm-search-suggestions-list list-unstyled"></ul>
+			</div>
+					</div>
+
+				<div class="col-xs-5 col-sm-4 col-md-4">
+			<ul class="list-inline navbar-pmuser">
+				<li class="hidden-sm hidden-md hidden-lg"><a href="#" id="pm-top-mobile-search-show" class="" title="Search"><i class="mico mico-search"></i></a></li>
+				<li class="hidden-xs"><a class="btn btn-sm btn-default ajax-modal" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form">Sign in</a></li>
+							</ul>
+		</div>
+			</div><!--.row-->
+</header>
+
+
+	<div class="modal" id="modal-login-form">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title">Sign in</h4>
+			</div>
+			<div class="modal-body">
+				
+				<form name="login_form" id="login-form" method="post" action="https://ww2.dramafuntv.com/login.php">
+	<div class="form-group">
+		<label for="username">Username/Email</label>
+		<input type="text" class="form-control" name="username" value="" placeholder="Username/Email">
+	</div>
+	<div class="form-group">
+		<label for="pass">Password</label>
+		<input type="password" class="form-control" id="pass" name="pass" maxlength="32" autocomplete="off" placeholder="Password">
+	</div>
+	<div class="form-group">
+		<button type="submit" name="Login" value="Login" class="btn btn-success btn-with-loader" data-loading-text="Signing in...">Login</button> 
+		<small><a href="https://ww2.dramafuntv.com/login.php?do=forgot_pass">Forgot your password?</a></small>
+	</div>
+</form>							</div>
+		</div>
+	</div>
+</div>	
+<a id="top"></a>
+
+<div class="mastcontent-wrap">
+ 
+<div class="container-fluid">
+	<div class="row">
+		<div class="pm-section-highlighted col-sm-12 col-md-12">
+		<div id="video-wrapper">
+			<div class="pm-video-watch-featured">
+							</div>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div id="content">
+	<div class="container">
+	<div class="row">
+	 
+	<div class="col-md-8">
+		<div class="pm-section-head">
+			<h2 style="background-color:#2f323e;padding:10px!important;color:#fff"><a href="https://ww2.dramafuntv.com/newvideos.php">Nuevos capitulos</a></h2>
+		</div>
+		<ul class="row pm-ul-browse-videos list-unstyled">
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">32:58</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8ab0dbc3e" title="Pobre Novio Peru Capítulo 66 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Pobre Novio Peru Capítulo 66 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3c72aff69-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8ab0dbc3e" title="Pobre Novio Peru Capítulo 66 Completo HD" class="ellipsis">Pobre Novio Peru Capítulo 66 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">32:13</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=20ed50a87" title="Pobre Novio Peru Capítulo 65 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Pobre Novio Peru Capítulo 65 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3c72aff69-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=20ed50a87" title="Pobre Novio Peru Capítulo 65 Completo HD" class="ellipsis">Pobre Novio Peru Capítulo 65 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:30</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=b35794d44" title="Nina De Azucar Capítulo 65 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Nina De Azucar Capítulo 65 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b80a8e132-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=b35794d44" title="Nina De Azucar Capítulo 65 Completo HD" class="ellipsis">Nina De Azucar Capítulo 65 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:21</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=bcae4aba4" title="Nina De Azucar Capítulo 64 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Nina De Azucar Capítulo 64 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b80a8e132-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=bcae4aba4" title="Nina De Azucar Capítulo 64 Completo HD" class="ellipsis">Nina De Azucar Capítulo 64 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">47:24</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6c606c565" title="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/70948b812-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6c606c565" title="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD" class="ellipsis">Al Fondo Hay Sitio 12 Capítulo 13 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">48:55</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=03E2d205d" title="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/70948b812-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=03E2d205d" title="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD" class="ellipsis">Al Fondo Hay Sitio 12 Capítulo 12 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:58</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=7bf7a2bde" title="A Mar Capítulo 18 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 18 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=7bf7a2bde" title="A Mar Capítulo 18 Completo HD" class="ellipsis">A Mar Capítulo 18 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:00:03</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=E1b114617" title="A Mar Capítulo 17 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 17 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=E1b114617" title="A Mar Capítulo 17 Completo HD" class="ellipsis">A Mar Capítulo 17 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:20:34</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=c1e2d0e64" title="Bahar Capítulo 38 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bahar Capítulo 38 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/0d19909ac-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=c1e2d0e64" title="Bahar Capítulo 38 (en Español)" class="ellipsis">Bahar Capítulo 38 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:17:26</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=F4392c148" title="Bahar Capítulo 37 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bahar Capítulo 37 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/0d19909ac-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=F4392c148" title="Bahar Capítulo 37 (en Español)" class="ellipsis">Bahar Capítulo 37 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:11:32</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=1d58831e1" title="Mehmed Fetihler Sultani Capítulo 38 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Mehmed Fetihler Sultani Capítulo 38 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3d8437a47-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=1d58831e1" title="Mehmed Fetihler Sultani Capítulo 38 (en Español)" class="ellipsis">Mehmed Fetihler Sultani Capítulo 38 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:16:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=Ddb591f68" title="Mehmed Fetihler Sultani Capítulo 37 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Mehmed Fetihler Sultani Capítulo 37 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3d8437a47-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=Ddb591f68" title="Mehmed Fetihler Sultani Capítulo 37 (en Español)" class="ellipsis">Mehmed Fetihler Sultani Capítulo 37 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:39:40</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=e92cfcf86" title="Kral Kaybederse Capítulo 5 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kral Kaybederse Capítulo 5 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ec3715ab5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=e92cfcf86" title="Kral Kaybederse Capítulo 5 (en Español)" class="ellipsis">Kral Kaybederse Capítulo 5 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:51:37</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=0Ec8327da" title="Kral Kaybederse Capítulo 4 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kral Kaybederse Capítulo 4 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ec3715ab5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=0Ec8327da" title="Kral Kaybederse Capítulo 4 (en Español)" class="ellipsis">Kral Kaybederse Capítulo 4 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:13:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ddd3c3208" title="Bir Gece Masali Capítulo 25 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bir Gece Masali Capítulo 25 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/d44592c88-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ddd3c3208" title="Bir Gece Masali Capítulo 25 (en Español)" class="ellipsis">Bir Gece Masali Capítulo 25 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:13:02</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=9A8a3ab6f" title="Bir Gece Masali Capítulo 24 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bir Gece Masali Capítulo 24 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/d44592c88-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=9A8a3ab6f" title="Bir Gece Masali Capítulo 24 (en Español)" class="ellipsis">Bir Gece Masali Capítulo 24 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:53</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=589b3c3c7" title="A Mar Capítulo 16 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 16 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=589b3c3c7" title="A Mar Capítulo 16 Completo HD" class="ellipsis">A Mar Capítulo 16 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=248210E82" title="A Mar Capítulo 15 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 15 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=248210E82" title="A Mar Capítulo 15 Completo HD" class="ellipsis">A Mar Capítulo 15 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:29</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=a8760471b" title="Sed de Venganza Capítulo 81 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Sed de Venganza Capítulo 81 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/2d22ff75f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=a8760471b" title="Sed de Venganza Capítulo 81 Completo HD" class="ellipsis">Sed de Venganza Capítulo 81 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:30</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6a6494cfe" title="Sed de Venganza Capítulo 80 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Sed de Venganza Capítulo 80 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/2d22ff75f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6a6494cfe" title="Sed de Venganza Capítulo 80 Completo HD" class="ellipsis">Sed de Venganza Capítulo 80 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">28:12</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8B1681ec3" title="Pobre Novio Peru Capítulo 64 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Pobre Novio Peru Capítulo 64 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3c72aff69-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8B1681ec3" title="Pobre Novio Peru Capítulo 64 Completo HD" class="ellipsis">Pobre Novio Peru Capítulo 64 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:34</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=0C1d4f805" title="Nina De Azucar Capítulo 63 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Nina De Azucar Capítulo 63 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b80a8e132-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=0C1d4f805" title="Nina De Azucar Capítulo 63 Completo HD" class="ellipsis">Nina De Azucar Capítulo 63 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:00:08</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=5Fbd644b4" title="Las Hijas De La Senora Garcia Capítulo 81 Final Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Las Hijas De La Senora Garcia Capítulo 81 Final Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/55a944ba5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=5Fbd644b4" title="Las Hijas De La Senora Garcia Capítulo 81 Final Completo HD" class="ellipsis">Las Hijas De La Senora Garcia Capítulo 81 Final Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:00:02</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=Db50dd6ce" title="Las Hijas De La Senora Garcia Capítulo 80 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Las Hijas De La Senora Garcia Capítulo 80 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/55a944ba5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=Db50dd6ce" title="Las Hijas De La Senora Garcia Capítulo 80 Completo HD" class="ellipsis">Las Hijas De La Senora Garcia Capítulo 80 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">48:02</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=5C505ddf3" title="Al Fondo Hay Sitio 12 Capítulo 11 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Al Fondo Hay Sitio 12 Capítulo 11 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/70948b812-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=5C505ddf3" title="Al Fondo Hay Sitio 12 Capítulo 11 Completo HD" class="ellipsis">Al Fondo Hay Sitio 12 Capítulo 11 Completo HD</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:16:18</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=B7e302b2c" title="Uzak Sehir Capítulo 16 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Uzak Sehir Capítulo 16 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/98092ceab-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=B7e302b2c" title="Uzak Sehir Capítulo 16 (en Español)" class="ellipsis">Uzak Sehir Capítulo 16 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:21:28</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=159c722d9" title="Uzak Sehir Capítulo 17 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Uzak Sehir Capítulo 17 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/98092ceab-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=159c722d9" title="Uzak Sehir Capítulo 17 (en Español)" class="ellipsis">Uzak Sehir Capítulo 17 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:30:43</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ce41832af" title="Kudus Fatihi Selahaddin Eyyubi Capítulo 48 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kudus Fatihi Selahaddin Eyyubi Capítulo 48 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b36c3e009-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ce41832af" title="Kudus Fatihi Selahaddin Eyyubi Capítulo 48 (en Español)" class="ellipsis">Kudus Fatihi Selahaddin Eyyubi Capítulo 48 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:31:12</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=e1fec0ce2" title="Kudus Fatihi Selahaddin Eyyubi Capítulo 47 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kudus Fatihi Selahaddin Eyyubi Capítulo 47 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b36c3e009-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=e1fec0ce2" title="Kudus Fatihi Selahaddin Eyyubi Capítulo 47 (en Español)" class="ellipsis">Kudus Fatihi Selahaddin Eyyubi Capítulo 47 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:15:21</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6e482aa45" title="Kizil Goncalar Capítulo 41 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kizil Goncalar Capítulo 41 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/604c40e6a-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6e482aa45" title="Kizil Goncalar Capítulo 41 (en Español)" class="ellipsis">Kizil Goncalar Capítulo 41 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:22:36</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=e90474521" title="Kizil Goncalar Capítulo 40 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kizil Goncalar Capítulo 40 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/604c40e6a-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=e90474521" title="Kizil Goncalar Capítulo 40 (en Español)" class="ellipsis">Kizil Goncalar Capítulo 40 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:17:14</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=bf334988d" title="Zembilli Capítulo 10 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Zembilli Capítulo 10 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4790aa005-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=bf334988d" title="Zembilli Capítulo 10 (en Español)" class="ellipsis">Zembilli Capítulo 10 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:16:42</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=3b8accad0" title="Zembilli Capítulo 9 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Zembilli Capítulo 9 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4790aa005-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=3b8accad0" title="Zembilli Capítulo 9 (en Español)" class="ellipsis">Zembilli Capítulo 9 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:58:55</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=F506ac706" title="Yali Capkini Capitulo 96 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Yali Capkini Capitulo 96 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/cb745dfcd-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=F506ac706" title="Yali Capkini Capitulo 96 (en Español)" class="ellipsis">Yali Capkini Capitulo 96 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:15:36</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=db0099d68" title="Yali Capkini Capitulo 97 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Yali Capkini Capitulo 97 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/cb745dfcd-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=db0099d68" title="Yali Capkini Capitulo 97 (en Español)" class="ellipsis">Yali Capkini Capitulo 97 (en Español)</a></h3>
+	</div>
+</div>			</li>
+						<li class="col-xs-6 col-sm-4 col-md-3">
+				<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:21:10</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6497a5cbb" title="Teskilat Capitulo 135 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Teskilat Capitulo 135 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/e9dcbc8e1-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6497a5cbb" title="Teskilat Capitulo 135 (en Español)" class="ellipsis">Teskilat Capitulo 135 (en Español)</a></h3>
+	</div>
+</div>			</li>
+					</ul>
+		<div class="clearfix"></div>
+	</div><!-- .col-md-8 -->
+		 
+	<div class="col-md-4">
+		<div class="pm-section-head">
+			<h2 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/moslslat.php">Serie destacada</a></h2>
+		</div>
+		<div class="home-series-list">
+								<div class="home-serie-item">
+						<a href="https://ww2.dramafuntv.com/view-serie.php?id=328">Yali Capkini (El Martin Pescador) - en Español</a>
+														<span class="sperate"></span>
+				<a href="https://ww2.dramafuntv.com/view-serie.php?id=79">Señora Acero</a>
+				</div>
+																<div class="home-serie-item">
+						<a href="https://ww2.dramafuntv.com/view-serie.php?id=78">La Reina del Sur</a>
+														<span class="sperate"></span>
+				<a href="https://ww2.dramafuntv.com/view-serie.php?id=77">Rosario Tijeras</a>
+				</div>
+																<div class="home-serie-item">
+						<a href="https://ww2.dramafuntv.com/view-serie.php?id=76">El Señor de los Cielos</a>
+														<span class="sperate"></span>
+				<a href="https://ww2.dramafuntv.com/view-serie.php?id=66">Sen Cal Kapimi (Love is in the Air) - en Español</a>
+				</div>
+																<div class="home-serie-item">
+						<a href="https://ww2.dramafuntv.com/view-serie.php?id=55">Acapulco Shore</a>
+														<span class="sperate"></span>
+				<a href="https://ww2.dramafuntv.com/view-serie.php?id=7">Adim Farah (Mi Nombre es Farah) - en Español</a>
+				</div>
+																<div class="home-serie-item">
+						<a href="https://ww2.dramafuntv.com/view-serie.php?id=5">La Venganza De Los Ex VIP</a>
+														<span class="sperate"></span>
+				<a href="https://ww2.dramafuntv.com/view-serie.php?id=3">El amor Invencible</a>
+				</div>
+														</div>
+	</div>
+		</div> <!-- .row -->
+	</div><!-- .container -->
+    <div class="container">
+      <div class="row">
+		        <div class="col-md-12">
+			<div class="pm-section-head">
+				<h2 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/newvideos.php">New</a></h2>
+			</div>
+			<ul class="row pm-ul-browse-videos list-unstyled">
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:29:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=044B1a200" title="Ver Avengers: Infinity War 2018 completa online en español latino">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Avengers: Infinity War 2018 completa online en español latino" data-echo="https://k.dramafuntv.com/uploads/thumbs/9ddf35c98-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=044B1a200" title="Ver Avengers: Infinity War 2018 completa online en español latino" class="ellipsis">Ver Avengers: Infinity War 2018 completa online en español latino</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:18:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=03C1786c1" title="Ver Harry Potter y la orden del Fénix 2007 completa online en español latino">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Harry Potter y la orden del Fénix 2007 completa online en español latino" data-echo="https://k.dramafuntv.com/uploads/thumbs/013feb84b-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=03C1786c1" title="Ver Harry Potter y la orden del Fénix 2007 completa online en español latino" class="ellipsis">Ver Harry Potter y la orden del Fénix 2007 completa online en español latino</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:26:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=C17d48281" title="Ver Harry Potter y las reliquias de la muerte Parte 1 2010 completa online en español latino">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Harry Potter y las reliquias de la muerte Parte 1 2010 completa online en español latino" data-echo="https://k.dramafuntv.com/uploads/thumbs/dcc30c297-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=C17d48281" title="Ver Harry Potter y las reliquias de la muerte Parte 1 2010 completa online en español latino" class="ellipsis">Ver Harry Potter y las reliquias de la muerte Parte 1 2010 completa online en español latino</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:51:03</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=76Eae52aa" title="Ver Contra Todos (2024) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Contra Todos (2024) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/bd90ad19b-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=76Eae52aa" title="Ver Contra Todos (2024) Online Latino HD" class="ellipsis">Ver Contra Todos (2024) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:13:13</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=f06097f93" title="Ver Una mujer italiana (2024) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Una mujer italiana (2024) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/f6a1f7dc5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=f06097f93" title="Ver Una mujer italiana (2024) Online Latino HD" class="ellipsis">Ver Una mujer italiana (2024) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:22:54</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=b476d852e" title="Ver The Avengers: Los Vengadores (2012) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Avengers: Los Vengadores (2012) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/d7bebba23-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=b476d852e" title="Ver The Avengers: Los Vengadores (2012) Online Latino HD" class="ellipsis">Ver The Avengers: Los Vengadores (2012) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:31:38</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=Bb8b77a8d" title="Ver Un lugar en silencio: Día uno (2024) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Un lugar en silencio: Día uno (2024) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/936af1fd3-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=Bb8b77a8d" title="Ver Un lugar en silencio: Día uno (2024) Online Latino HD" class="ellipsis">Ver Un lugar en silencio: Día uno (2024) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">3:12:50</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=C6ad23228" title="Ver Avatar: El sentido del agua (2022) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Avatar: El sentido del agua (2022) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/fd24a54c2-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=C6ad23228" title="Ver Avatar: El sentido del agua (2022) Online Latino HD" class="ellipsis">Ver Avatar: El sentido del agua (2022) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:27:50</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=52Bb2afe6" title="Ver Capitán América 3: Civil War (2016) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Capitán América 3: Civil War (2016) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/7124262b8-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=52Bb2afe6" title="Ver Capitán América 3: Civil War (2016) Online Latino HD" class="ellipsis">Ver Capitán América 3: Civil War (2016) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:24:40</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=E3a8ebf92" title="Ver El planeta de los simios: Nuevo reino (2024) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver El planeta de los simios: Nuevo reino (2024) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/f5c2d0771-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=E3a8ebf92" title="Ver El planeta de los simios: Nuevo reino (2024) Online Latino HD" class="ellipsis">Ver El planeta de los simios: Nuevo reino (2024) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:37:28</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=Af04a44d8" title="Ver Un Hipster En La España Vacía (2024) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Un Hipster En La España Vacía (2024) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/535e7e457-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=Af04a44d8" title="Ver Un Hipster En La España Vacía (2024) Online Latino HD" class="ellipsis">Ver Un Hipster En La España Vacía (2024) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:15:54</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=A546aaea4" title="Ver Capitán América: El soldado de invierno (2014) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Capitán América: El soldado de invierno (2014) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ec6bb33db-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=A546aaea4" title="Ver Capitán América: El soldado de invierno (2014) Online Latino HD" class="ellipsis">Ver Capitán América: El soldado de invierno (2014) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:42:33</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8bef648be" title="Ver Frozen: Una Aventura Congelada (2013) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Frozen: Una Aventura Congelada (2013) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/8bef648be-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8bef648be" title="Ver Frozen: Una Aventura Congelada (2013) Online Latino HD" class="ellipsis">Ver Frozen: Una Aventura Congelada (2013) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:26:32</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=0c310f31c" title="Ver Las nuevas aventuras de Caperucita Roja (2011) Online Latino HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Las nuevas aventuras de Caperucita Roja (2011) Online Latino HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/0c310f31c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=0c310f31c" title="Ver Las nuevas aventuras de Caperucita Roja (2011) Online Latino HD" class="ellipsis">Ver Las nuevas aventuras de Caperucita Roja (2011) Online Latino HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:35:25</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=4edb2b4ae" title="Ver You'll Never Find Me (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver You'll Never Find Me (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4edb2b4ae-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=4edb2b4ae" title="Ver You'll Never Find Me (2024) Subtitulado En Español Online HD" class="ellipsis">Ver You'll Never Find Me (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:29:21</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=34f08a501" title="Ver Yoga Teacher Killer: The Kaitlin Armstrong Story (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Yoga Teacher Killer: The Kaitlin Armstrong Story (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/34f08a501-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=34f08a501" title="Ver Yoga Teacher Killer: The Kaitlin Armstrong Story (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Yoga Teacher Killer: The Kaitlin Armstrong Story (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:48:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=4c585e6b8" title="Ver Witch (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Witch (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4c585e6b8-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=4c585e6b8" title="Ver Witch (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Witch (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:48:17</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=31076de42" title="Ver Wildcat (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Wildcat (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/31076de42-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=31076de42" title="Ver Wildcat (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Wildcat (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:40:05</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=bd9750193" title="Ver Pequeñas cartas indiscretas (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Pequeñas cartas indiscretas (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/bd9750193-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=bd9750193" title="Ver Pequeñas cartas indiscretas (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Pequeñas cartas indiscretas (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:33:31</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8ff2c67ca" title="Ver Warchief (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Warchief (2024) Subtitulado En Español Online HD" data-echo="https://l.dramafuntv.com/uploads/thumbs/8ff2c67ca-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8ff2c67ca" title="Ver Warchief (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Warchief (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:54:45</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=7fe646c57" title="Ver unDEFILED (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver unDEFILED (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/7fe646c57-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=7fe646c57" title="Ver unDEFILED (2024) Subtitulado En Español Online HD" class="ellipsis">Ver unDEFILED (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:50:04</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=524ccd27c" title="Ver Un Cuento de Circo &amp; A Love Song (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Un Cuento de Circo &amp; A Love Song (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/524ccd27c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=524ccd27c" title="Ver Un Cuento de Circo &amp; A Love Song (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Un Cuento de Circo & A Love Song (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:47:18</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=3a0a59fd5" title="Ver Trinil: Kembalikan Tubuhku (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Trinil: Kembalikan Tubuhku (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3a0a59fd5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=3a0a59fd5" title="Ver Trinil: Kembalikan Tubuhku (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Trinil: Kembalikan Tubuhku (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:28:50</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=a41507f02" title="Ver This Closeness (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver This Closeness (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/a41507f02-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=a41507f02" title="Ver This Closeness (2024) Subtitulado En Español Online HD" class="ellipsis">Ver This Closeness (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:19:14</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=20cc4ecd9" title="Ver The Woods Are Real (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Woods Are Real (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/20cc4ecd9-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=20cc4ecd9" title="Ver The Woods Are Real (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Woods Are Real (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:23:15</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=41d6373ef" title="Ver The Windigo (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Windigo (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/41d6373ef-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=41d6373ef" title="Ver The Windigo (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Windigo (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:45:33</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=989535f03" title="Ver The Real Bros of Simi Valley: The Movie (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Real Bros of Simi Valley: The Movie (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/989535f03-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=989535f03" title="Ver The Real Bros of Simi Valley: The Movie (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Real Bros of Simi Valley: The Movie (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:37:19</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=7e8dd1655" title="Ver The Prank (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Prank (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/7e8dd1655-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=7e8dd1655" title="Ver The Prank (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Prank (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:08:30</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6c622e072" title="Ver The Phantom Warrior (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Phantom Warrior (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/6c622e072-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6c622e072" title="Ver The Phantom Warrior (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Phantom Warrior (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=22b735277" title="Ver The Last Repair Shop (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Last Repair Shop (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/22b735277-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=22b735277" title="Ver The Last Repair Shop (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Last Repair Shop (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:35:53</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8d84edddc" title="Ver The Image of You (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Image of You (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/8d84edddc-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8d84edddc" title="Ver The Image of You (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Image of You (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:58:41</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=944b9b255" title="Ver The Get Rich Quick Scheme (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Get Rich Quick Scheme (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/944b9b255-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=944b9b255" title="Ver The Get Rich Quick Scheme (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Get Rich Quick Scheme (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:59:32</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=83547e238" title="Ver The Convert (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Convert (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/83547e238-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=83547e238" title="Ver The Convert (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Convert (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:40:27</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=9ad0e5409" title="Ver The Break of Dawn (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver The Break of Dawn (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/9ad0e5409-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=9ad0e5409" title="Ver The Break of Dawn (2024) Subtitulado En Español Online HD" class="ellipsis">Ver The Break of Dawn (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:29:14</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=7ac41e701" title="Ver Super Icyclone (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver Super Icyclone (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/7ac41e701-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=7ac41e701" title="Ver Super Icyclone (2024) Subtitulado En Español Online HD" class="ellipsis">Ver Super Icyclone (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-4 col-md-2">
+					<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:22:11</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=fbf5d0de4" title="Ver A Stranger in the Woods (2024) Subtitulado En Español Online HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Ver A Stranger in the Woods (2024) Subtitulado En Español Online HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/fbf5d0de4-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=fbf5d0de4" title="Ver A Stranger in the Woods (2024) Subtitulado En Español Online HD" class="ellipsis">Ver A Stranger in the Woods (2024) Subtitulado En Español Online HD</a></h3>
+	</div>
+</div>				</li>
+							</ul>
+			<div class="clearfix"></div>
+        </div><!-- .col-md-8 -->
+		
+					<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/category.php?cat=Doramas-Sub-Espanol">Doramas Sub Español</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs" id="pm-slide-prev_42"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs" id="pm-slide-next_42"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline" data-slider-id="42" data-slides="5" id="pm-carousel_42">
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:12:08</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6116716a3" title="Crash Course In Romance Capitulo 14 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 14 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6116716a3" title="Crash Course In Romance Capitulo 14 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 14 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:13:01</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=df37de43a" title="Crash Course In Romance Capitulo 13 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 13 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=df37de43a" title="Crash Course In Romance Capitulo 13 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 13 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:15:19</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=1e1a3f649" title="Crash Course In Romance Capitulo 12 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 12 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=1e1a3f649" title="Crash Course In Romance Capitulo 12 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 12 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:13:15</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ec6d0703d" title="Crash Course In Romance Capitulo 11 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 11 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ec6d0703d" title="Crash Course In Romance Capitulo 11 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 11 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:10:47</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=bd96f54ec" title="Crash Course In Romance Capitulo 10 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 10 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=bd96f54ec" title="Crash Course In Romance Capitulo 10 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 10 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:06:08</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=3d3691cb7" title="Crash Course In Romance Capitulo 9 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 9 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=3d3691cb7" title="Crash Course In Romance Capitulo 9 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 9 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:06:08</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=2cf5e0127" title="Crash Course In Romance Capitulo 8 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 8 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=2cf5e0127" title="Crash Course In Romance Capitulo 8 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 8 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:12:28</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=b98129a04" title="Crash Course In Romance Capitulo 7 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 7 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=b98129a04" title="Crash Course In Romance Capitulo 7 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 7 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:12:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=00c3e3dfb" title="Crash Course In Romance Capitulo 6 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 6 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=00c3e3dfb" title="Crash Course In Romance Capitulo 6 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 6 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:14:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=dca0fa5c3" title="Crash Course In Romance Capitulo 5 online sub español HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Crash Course In Romance Capitulo 5 online sub español HD" data-echo="https://a.dramafuntv.com/uploads/thumbs/c0f3e4446-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=dca0fa5c3" title="Crash Course In Romance Capitulo 5 online sub español HD" class="ellipsis">Crash Course In Romance Capitulo 5 online sub español HD</a></h3>
+	</div>
+</div>						</li>
+											</ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/category.php?cat=Novelas-y-Telenovelas-Completas">Novelas y Telenovelas Completas</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs" id="pm-slide-prev_39"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs" id="pm-slide-next_39"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline" data-slider-id="39" data-slides="5" id="pm-carousel_39">
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">32:58</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=8ab0dbc3e" title="Pobre Novio Peru Capítulo 66 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Pobre Novio Peru Capítulo 66 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3c72aff69-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=8ab0dbc3e" title="Pobre Novio Peru Capítulo 66 Completo HD" class="ellipsis">Pobre Novio Peru Capítulo 66 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">32:13</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=20ed50a87" title="Pobre Novio Peru Capítulo 65 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Pobre Novio Peru Capítulo 65 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3c72aff69-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=20ed50a87" title="Pobre Novio Peru Capítulo 65 Completo HD" class="ellipsis">Pobre Novio Peru Capítulo 65 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:30</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=b35794d44" title="Nina De Azucar Capítulo 65 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Nina De Azucar Capítulo 65 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b80a8e132-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=b35794d44" title="Nina De Azucar Capítulo 65 Completo HD" class="ellipsis">Nina De Azucar Capítulo 65 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">42:21</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=bcae4aba4" title="Nina De Azucar Capítulo 64 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Nina De Azucar Capítulo 64 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/b80a8e132-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=bcae4aba4" title="Nina De Azucar Capítulo 64 Completo HD" class="ellipsis">Nina De Azucar Capítulo 64 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">47:24</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=6c606c565" title="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/70948b812-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=6c606c565" title="Al Fondo Hay Sitio 12 Capítulo 13 Completo HD" class="ellipsis">Al Fondo Hay Sitio 12 Capítulo 13 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">48:55</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=03E2d205d" title="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/70948b812-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=03E2d205d" title="Al Fondo Hay Sitio 12 Capítulo 12 Completo HD" class="ellipsis">Al Fondo Hay Sitio 12 Capítulo 12 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:58</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=7bf7a2bde" title="A Mar Capítulo 18 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 18 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=7bf7a2bde" title="A Mar Capítulo 18 Completo HD" class="ellipsis">A Mar Capítulo 18 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:00:03</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=E1b114617" title="A Mar Capítulo 17 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 17 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=E1b114617" title="A Mar Capítulo 17 Completo HD" class="ellipsis">A Mar Capítulo 17 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:53</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=589b3c3c7" title="A Mar Capítulo 16 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 16 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=589b3c3c7" title="A Mar Capítulo 16 Completo HD" class="ellipsis">A Mar Capítulo 16 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">59:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=248210E82" title="A Mar Capítulo 15 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="A Mar Capítulo 15 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3ff00c379-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=248210E82" title="A Mar Capítulo 15 Completo HD" class="ellipsis">A Mar Capítulo 15 Completo HD</a></h3>
+	</div>
+</div>						</li>
+											</ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/category.php?cat=series-y-novelas-turcas-en-espanol">Novelas Turcas (Audio)</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs" id="pm-slide-prev_35"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs" id="pm-slide-next_35"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline" data-slider-id="35" data-slides="5" id="pm-carousel_35">
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">39:34</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=005D54879" title="Alaca Capítulo 20 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Alaca Capítulo 20 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4518fc23c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=005D54879" title="Alaca Capítulo 20 Completo HD" class="ellipsis">Alaca Capítulo 20 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:09</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ba3facc11" title="Alaca Capítulo 21 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Alaca Capítulo 21 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4518fc23c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ba3facc11" title="Alaca Capítulo 21 Completo HD" class="ellipsis">Alaca Capítulo 21 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">41:15</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=592Ca667c" title="Alaca Capítulo 19 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Alaca Capítulo 19 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4518fc23c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=592Ca667c" title="Alaca Capítulo 19 Completo HD" class="ellipsis">Alaca Capítulo 19 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:37</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=42f01412e" title="Alaca Capítulo 18 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Alaca Capítulo 18 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/4518fc23c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=42f01412e" title="Alaca Capítulo 18 Completo HD" class="ellipsis">Alaca Capítulo 18 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">41:15</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=92Ac326cd" title="Alaca Capítulo 17 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Alaca Capítulo 17 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/4518fc23c-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=92Ac326cd" title="Alaca Capítulo 17 Completo HD" class="ellipsis">Alaca Capítulo 17 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">43:13</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=dd84a092f" title="Último verano Capítulo 20 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Último verano Capítulo 20 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/83b986635-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=dd84a092f" title="Último verano Capítulo 20 Completo HD" class="ellipsis">Último verano Capítulo 20 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:14</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=16f82bca6" title="Último verano Capítulo 19 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Último verano Capítulo 19 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/83b986635-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=16f82bca6" title="Último verano Capítulo 19 Completo HD" class="ellipsis">Último verano Capítulo 19 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">39:16</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=d4ecb6477" title="Último verano Capítulo 18 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Último verano Capítulo 18 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/83b986635-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=d4ecb6477" title="Último verano Capítulo 18 Completo HD" class="ellipsis">Último verano Capítulo 18 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:58</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=10fa8f2d5" title="Último verano Capítulo 17 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Último verano Capítulo 17 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/83b986635-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=10fa8f2d5" title="Último verano Capítulo 17 Completo HD" class="ellipsis">Último verano Capítulo 17 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">40:13</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=755fb0010" title="Último verano Capítulo 16 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Último verano Capítulo 16 Completo HD" data-echo="https://q.dramafuntv.com/uploads/thumbs/83b986635-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=755fb0010" title="Último verano Capítulo 16 Completo HD" class="ellipsis">Último verano Capítulo 16 Completo HD</a></h3>
+	</div>
+</div>						</li>
+											</ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/category.php?cat=novelas-turcas-subtituladas">Novelas Turcas Subtituladas</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs" id="pm-slide-prev_36"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs" id="pm-slide-next_36"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline" data-slider-id="36" data-slides="5" id="pm-carousel_36">
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:20:34</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=c1e2d0e64" title="Bahar Capítulo 38 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bahar Capítulo 38 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/0d19909ac-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=c1e2d0e64" title="Bahar Capítulo 38 (en Español)" class="ellipsis">Bahar Capítulo 38 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:17:26</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=F4392c148" title="Bahar Capítulo 37 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bahar Capítulo 37 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/0d19909ac-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=F4392c148" title="Bahar Capítulo 37 (en Español)" class="ellipsis">Bahar Capítulo 37 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:11:32</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=1d58831e1" title="Mehmed Fetihler Sultani Capítulo 38 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Mehmed Fetihler Sultani Capítulo 38 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3d8437a47-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=1d58831e1" title="Mehmed Fetihler Sultani Capítulo 38 (en Español)" class="ellipsis">Mehmed Fetihler Sultani Capítulo 38 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:16:48</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=Ddb591f68" title="Mehmed Fetihler Sultani Capítulo 37 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Mehmed Fetihler Sultani Capítulo 37 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/3d8437a47-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=Ddb591f68" title="Mehmed Fetihler Sultani Capítulo 37 (en Español)" class="ellipsis">Mehmed Fetihler Sultani Capítulo 37 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:39:40</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=e92cfcf86" title="Kral Kaybederse Capítulo 5 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kral Kaybederse Capítulo 5 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ec3715ab5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=e92cfcf86" title="Kral Kaybederse Capítulo 5 (en Español)" class="ellipsis">Kral Kaybederse Capítulo 5 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:51:37</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=0Ec8327da" title="Kral Kaybederse Capítulo 4 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Kral Kaybederse Capítulo 4 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ec3715ab5-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=0Ec8327da" title="Kral Kaybederse Capítulo 4 (en Español)" class="ellipsis">Kral Kaybederse Capítulo 4 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:13:00</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ddd3c3208" title="Bir Gece Masali Capítulo 25 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bir Gece Masali Capítulo 25 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/d44592c88-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ddd3c3208" title="Bir Gece Masali Capítulo 25 (en Español)" class="ellipsis">Bir Gece Masali Capítulo 25 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:13:02</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=9A8a3ab6f" title="Bir Gece Masali Capítulo 24 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Bir Gece Masali Capítulo 24 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/d44592c88-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=9A8a3ab6f" title="Bir Gece Masali Capítulo 24 (en Español)" class="ellipsis">Bir Gece Masali Capítulo 24 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:16:18</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=B7e302b2c" title="Uzak Sehir Capítulo 16 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Uzak Sehir Capítulo 16 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/98092ceab-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=B7e302b2c" title="Uzak Sehir Capítulo 16 (en Español)" class="ellipsis">Uzak Sehir Capítulo 16 (en Español)</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">2:21:28</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=159c722d9" title="Uzak Sehir Capítulo 17 (en Español)">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Uzak Sehir Capítulo 17 (en Español)" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/98092ceab-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=159c722d9" title="Uzak Sehir Capítulo 17 (en Español)" class="ellipsis">Uzak Sehir Capítulo 17 (en Español)</a></h3>
+	</div>
+</div>						</li>
+											</ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3 style="background-color:#2f323e;padding:10px 0!important;color:#fff"><a href="https://ww2.dramafuntv.com/category.php?cat=Reality-TV">Reality-TV</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs" id="pm-slide-prev_40"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs" id="pm-slide-next_40"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline" data-slider-id="40" data-slides="5" id="pm-carousel_40">
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:21:18</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=429ff9f75" title="Palabra De Honor Capítulo 79 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Palabra De Honor Capítulo 79 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/0966fdb15-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=429ff9f75" title="Palabra De Honor Capítulo 79 Completo HD" class="ellipsis">Palabra De Honor Capítulo 79 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">1:13:24</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=4f8225a18" title="Palabra De Honor Capítulo 78 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Palabra De Honor Capítulo 78 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/0966fdb15-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=4f8225a18" title="Palabra De Honor Capítulo 78 Completo HD" class="ellipsis">Palabra De Honor Capítulo 78 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">43:17</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=64753efff" title="Aventura en pelotas: España Capítulo 8 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 8 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=64753efff" title="Aventura en pelotas: España Capítulo 8 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 8 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">44:12</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=4010f7968" title="Aventura en pelotas: España Capítulo 7 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 7 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=4010f7968" title="Aventura en pelotas: España Capítulo 7 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 7 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">45:14</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ee8ae4a30" title="Aventura en pelotas: España Capítulo 6 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 6 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ee8ae4a30" title="Aventura en pelotas: España Capítulo 6 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 6 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">45:09</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=30cbb4864" title="Aventura en pelotas: España Capítulo 5 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 5 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=30cbb4864" title="Aventura en pelotas: España Capítulo 5 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 5 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">45:08</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=99e3a8223" title="Aventura en pelotas: España Capítulo 4 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 4 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=99e3a8223" title="Aventura en pelotas: España Capítulo 4 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 4 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">45:05</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=edc694f99" title="Aventura en pelotas: España Capítulo 3 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 3 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=edc694f99" title="Aventura en pelotas: España Capítulo 3 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 3 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">46:41</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=eff546b1d" title="Aventura en pelotas: España Capítulo 2 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 2 Completo HD" data-echo="https://ww1.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=eff546b1d" title="Aventura en pelotas: España Capítulo 2 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 2 Completo HD</a></h3>
+	</div>
+</div>						</li>
+												<li class="">
+						<div class="thumbnail">
+	<div class="pm-video-thumb">
+		<span class="pm-label-duration">48:33</span>
+		
+								<a class="pm-watch-later-add btn btn-xs btn-default hidden-xs" rel="tooltip" data-placement="left" title="Watch Later" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="fa fa-clock-o"></i></a>
+							<a href="https://ww2.dramafuntv.com/watch.php?vid=ba400cb7f" title="Aventura en pelotas: España Capítulo 1 Completo HD">
+						<img src="https://ww2.dramafuntv.com/templates/3osss/img/echo-lzld.png" alt="Aventura en pelotas: España Capítulo 1 Completo HD" data-echo="https://ww2.dramafuntv.com/uploads/thumbs/ba400cb7f-1.jpg" class="img-responsive">
+		<span class="overlay"></span>
+		</a>
+	</div>
+
+	<div class="caption">
+		<h3><a href="https://ww2.dramafuntv.com/watch.php?vid=ba400cb7f" title="Aventura en pelotas: España Capítulo 1 Completo HD" class="ellipsis">Aventura en pelotas: España Capítulo 1 Completo HD</a></h3>
+	</div>
+</div>						</li>
+											</ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+			
+      <div class="clearfix"></div>
+    </div><!-- .container -->
+
+</div> <!--.mastcontent-wrap-->
+
+
+
+
+</div><!--content-->
+</div><!--.container-fluid no-padding-->
+
+
+<div class="container-fluid container-footer">
+		<footer>
+
+		<div class="row row-footer-horizontal">
+			<div class="col-xs-12 col-sm-12 col-md-8">
+			<p>	&copy; 2025 DramaFun. All rights reserved</p>
+			</div>
+		</div>
+	</footer>
+</div>
+
+
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/slick.min.js"></script>
+
+
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://ww2.dramafuntv.com/templates/3osss/js/theme.js"></script>
+<script type="text/javascript">
+
+// $(window).scroll(function() {
+//   if ($(this).scrollTop() > 1){  
+//     $('header').addClass("sticky-head");
+//   }
+//   else {
+//     $('header').removeClass("sticky-head");
+//   }
+// });
+
+$(document).ready(function() { 
+  $(function() {
+	$('.ripple').on('click', function (event) {
+	  //event.preventDefault();
+	  
+	  var $div = $('<div/>'),
+		  btnOffset = $(this).offset(),
+			xPos = event.pageX - btnOffset.left,
+			yPos = event.pageY - btnOffset.top;
+	  
+	  $div.addClass('ripple-effect');
+	  var $ripple = $(".ripple-effect");
+	  
+	  $ripple.css("height", $(this).height());
+	  $ripple.css("width", $(this).height());
+	  $div
+		.css({
+		  top: yPos - ($ripple.height()/2),
+		  left: xPos - ($ripple.width()/2),
+		  background: $(this).data("ripple-color")
+		}) 
+		.appendTo($(this));
+
+	  window.setTimeout(function(){
+		$div.remove();
+	  }, 2000);
+	});
+  });
+});
+
+
+$(document).ready(function() {
+	echo.init({
+		offset: 600,
+		throttle: 200,
+		unload: false,
+	});
+
+
+	if($('ul.pagination').length) {
+		// $('ul.pagination.pagination-arrows li a').first().html("<i class='fa fa-arrow-left'></i>");
+		// $('ul.pagination.pagination-arrows li a').last().html("<i class='fa fa-arrow-right'></i>");
+		$('ul.pagination.pagination-arrows li a').first().html("<i class='fa fa-arrow-left'></i>");
+		$('ul.pagination.pagination-arrows li a').last().html("<i class='fa fa-arrow-right'></i>");
+	}
+
+});
+
+// In-button Feedback (Icon)
+$(document).ready(function() {
+	$('.btn-with-loader').on('click', function() {
+		var $this = $(this);
+		$this.button('Loading').prepend('<i class="btn-loader"></i>');
+		setTimeout(function() {
+			$this.button('reset');
+		}, 2000);
+	});
+});
+// Page Loading Feedback (Red Stripe)
+$(document).ready(function() {
+  $(".pm-section-highlighted, .pm-ul-browse-videos").animsition({
+	linkElement: '.animsition',
+	loading: false,
+	timeout: true,
+	timeoutCountdown: 5000,
+	browser: [ 'animation-duration', '-webkit-animation-duration'],
+	overlay : false,
+	overlayClass : '',
+	overlayParentElement : 'body',
+	transition: function(url){ 
+		$('header').append('<div class="pm-horizontal-loader"></div>');
+		window.location.href = url; }
+  });
+});
+
+// Global settings for notifications
+$(document).ready(function() {
+	$.notifyDefaults({
+	// settings
+	element: 'body',
+	position: null,
+	type: "info",
+	allow_dismiss: true,
+	newest_on_top: true,
+	showProgressbar: false,
+	placement: {
+		from: "top", // top, bottom
+		align: "right" // left, right, center
+	},
+	offset: {
+		x: 20,
+		y: 100
+		},
+	spacing: 10,
+	z_index: 1031,
+	delay: 10000,
+	timer: 1000,
+	url_target: '_blank',
+	mouse_over: null,
+	animate: {
+		enter: 'animated fadeInDown',//'animated fadeIn',
+		exit: 'animated fadeOutUpBig',//'animated fadeOut'
+	},
+	onShow: null,
+	onShown: null,
+	onClose: null,
+	onClosed: null,
+	template: '<div data-notify="container" class="growl alert alert-{0}" role="alert">' +
+				'<button type="button" aria-hidden="true" class="close" data-notify="dismiss">&times;</button>' +
+				'<span data-notify="icon"></span> ' +
+				'<span data-notify="title">{1}</span> ' +
+				'<span data-notify="message">{2}</span>' +
+				'<div class="progress" data-notify="progressbar">' +
+					'<div class="progress-bar progress-bar-{0}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>' +
+				'</div>' +
+				'<a href="{3}" target="{4}" data-notify="url"></a>' +
+			'</div>',
+	PM_exitAnimationTimeout: 0 // PHP Melody custom settings
+	});
+});
+</script>
+
+
+
+
+
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/jquery.plugins.a.js" type="text/javascript"></script>
+<script src="https://ww2.dramafuntv.com/js/jquery.typewatch.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ww2.dramafuntv.com/js/bootstrap-notify.min.js"></script>
+<script src="https://ww2.dramafuntv.com/js/melody.dev.js" type="text/javascript"></script>
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/melody.dev.js" type="text/javascript"></script>
+<!-- <script src="https://ww2.dramafuntv.com/templates/3osss/js/lightbox.dev.js" type="text/javascript"></script> -->
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/jasny-bootstrap.min.js" type="text/javascript"></script>
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/jquery.plugins.b.js" type="text/javascript"></script>
+
+
+ 
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('textarea').autosize();
+	//$('.fileinput').fileinput();
+	$(".ellipsis").dotdotdot({
+	ellipsis : '...',
+	wrap : 'word',
+	watch: true,
+	height : 40
+	});
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+// live search
+$('#pm-search').typeWatch({
+	callback: function() {		
+	$.ajax({
+		type: "POST",
+		url: MELODYURL2 + "/ajax-search.php",
+		data: {
+			"queryString": $('#pm-search').val()
+		},
+		dataType: "html",
+		success: function(b){
+			if (b.length > 0) {
+				$(".pm-search-suggestions-list").html(b);
+
+				$(".pm-search-suggestions").show(function() {
+
+					var $listItems = $('.pm-search-suggestions-list').find('li');
+
+					$('#pm-search').keydown(function(e)
+					{
+
+						var key = e.keyCode,
+							$selected = $listItems.filter('.selected'),
+							$current;
+
+						if ( key === 27 ) { // ESC
+							$(".pm-search-suggestions").hide();
+						}
+
+						if( key == 38 || key == 40 ){ // UP/DOWN
+							e.preventDefault();
+						}
+
+						if ( key != 38 && key != 40 ) return;
+
+						$listItems.removeClass('selected');
+
+						if ( key == 40 ) // Down key
+						{
+							if ( ! $selected.length || $selected.is(':last-child') ) {
+								$current = $listItems.eq(0);
+							}
+							else {
+								$current = $selected.next();
+							}
+						}
+						else if ( key == 38 ) // Up key
+						{
+							if ( ! $selected.length || $selected.is(':first-child') ) {
+								$current = $listItems.last();
+							}
+							else {
+								$current = $selected.prev();
+							}
+						}
+
+						$current.addClass('selected');
+						$selected_url = $current.find('a').attr('href');
+
+						$selected_id = $current.attr('data-video-id');
+
+						($('#pm-video-id').val($selected_id));
+
+					});
+
+					$(document).on('click', (function(e) {
+						if(e.target.className !== "pm-search-suggestions" && e.target.id !== "pm-search") {
+								$(".pm-search-suggestions").hide();
+						}}));
+				});
+
+			} else {
+				$(".pm-search-suggestions").hide();
+			}
+		}
+	});
+},
+wait: 400,
+highlight: true,
+captureLength: 3
+});
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("ul[class^='pm-ul-carousel-videos']").each(
+	function() {
+		var slides_id = $(this).data("slider-id");
+		var slides = $(this).data("slides");
+		var video_carousel = $('#pm-carousel_' + slides_id);
+
+		if(slides == null) {
+			var slides = 4;
+		}
+		video_carousel.slick({
+						lazyLoad: 'ondemand',
+			slidesToShow: slides, 
+			slidesToScroll: slides - 1,
+			prevArrow	: "#pm-slide-prev_" + slides_id,
+			nextArrow	: "#pm-slide-next_" + slides_id,
+			speed: 150,
+			responsive: [
+			{
+				breakpoint: 1024,
+				settings: {
+					slidesToShow: 3,
+					slidesToScroll: 3
+				}
+			},
+			{
+				breakpoint: 600,
+				settings: {
+					slidesToShow: 2,
+					slidesToScroll: 2
+				}
+			}
+			]
+		});
+	});
+});
+</script>
+
+
+
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/jquery.readmore.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+if (document.querySelector('.pm-series-description') !== null) {
+	$('.pm-series-description').readmore({
+		speed: 50,
+		maxHeight: 100,
+		moreLink: '<a href="#">' + pm_lang.show_more +'</a>',
+		lessLink: '<a href="#">' + pm_lang.show_less +'</a>',
+	});
+}
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#modal-login-form, #modal-register-form').on('shown.bs.modal', function() {
+		document.activeElement.blur();
+		$(this).find(".modal-body :input:visible").first().focus();
+	});
+});
+</script>
+
+
+
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/melody.social.dev.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+(function() {
+	"use strict";
+	var toggles = document.querySelectorAll("#navslide-toggle");
+
+	for (var i = toggles.length - 1; i >= 0; i--) {
+	var toggle = toggles[i];
+	toggleHandler(toggle);
+	};
+
+	function toggleHandler(toggle) {
+	toggle.addEventListener( "click", function(e) {
+		e.preventDefault();
+		(this.classList.contains("is-active") === true) ? this.classList.remove("is-active") : this.classList.add("is-active");
+	});
+	}
+})();
+
+</script>
+
+
+
+
+
+<script src="https://ww2.dramafuntv.com/templates/3osss/js/jquery.cropit.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+$(function() {
+	var cropit_avatar_notify = null;
+	var cropit_cover_notify = null;
+	var cropit_notify_type = 'info';
+	
+	// Avatar
+	$('.pm-profile-avatar-pic').cropit({
+		smallImage: 'allow',
+		// width: 180, 
+		// height: 180,
+		width: 120,
+		height: 120,
+		preview: '.pm-profile-avatar-preview',
+		onImageLoading: function(){
+			cropit_avatar_notify = $.notify({message: pm_lang.please_wait}, {type: cropit_notify_type});
+		},
+		onImageLoaded: function() {
+			cropit_avatar_notify.close();
+		},
+		onImageError: function(){
+			cropit_avatar_notify.close();
+		}
+	});
+
+	$('#btn-edit-avatar').click(function() {
+		$('#cropit-avatar-input').click();
+		$('#cropit-avatar-form').css('visibility', 'visible');
+		$('.cropit-image-preview').removeClass('animated fadeIn');
+	});
+
+	$('.btn-cancel-avatar').click(function() {
+		$('.pm-profile-avatar-pic .cropit-image-preview').removeClass('cropit-image-loaded').addClass('animated fadeIn');
+		$('#cropit-avatar-form').css('visibility', 'hidden');
+		return false;
+	});
+
+	$('form#cropit-avatar-form').submit(function() {
+		
+		var image_data = $('.pm-profile-avatar-pic').cropit('export', {
+			type: 'image/jpeg',
+			quality: .9,
+			fillBg: '#333'
+		});
+		
+		// Move cropped image data to hidden input
+		$('.hidden-avatar-data-img').val(image_data);
+		
+		$.ajax({
+			url: MELODYURL2 + "/ajax.php",
+			type: "POST",
+			dataType: "json",
+			data: $('#cropit-avatar-form').serialize(),
+			beforeSend: function(jqXHR, settings) {
+				// clean error message container
+				//cropit_avatar_notify.close();
+				$.notifyClose();
+				cropit_avatar_notify = $.notify({message: pm_lang.swfupload_status_uploading}, {type: cropit_notify_type});
+			},
+		})
+		.done(function(data){
+			cropit_avatar_notify.close();
+			if (data.success) { 
+				// hide form action buttons 
+				$('#cropit-avatar-form').css('visibility', 'hidden');
+				
+				// reset background with uploaded image 
+				$('.pm-profile-avatar-pic .cropit-image-preview img').attr('src', data.file_url);
+				
+				// stop image movement ability
+				$('.pm-profile-avatar-pic .cropit-image-preview').addClass('animated fadeIn');
+				// timeout required to allow time for the uploaded image to load before removing the current image obj (and avoid a image-swapping 'glitch')
+				setTimeout(function(){
+					$('.pm-profile-avatar-pic .cropit-image-preview').removeClass('cropit-image-loaded')
+				}, 700);
+				
+				// unload selected image to let the user re-select the same image
+				$('.pm-profile-avatar-pic input.cropit-image-input')[0].value = null;
+			}
+			cropit_avatar_notify = $.notify({message: data.msg}, {type: data.alert_type});
+		});
+
+		return false;
+	});
+	
+	var cropit_cover_height = parseInt($('.pm-profile-cover-preview').attr('data-cropit-height'));
+	if ( ! cropit_cover_height) {
+		cropit_cover_height = 200;
+	}
+		
+	// Cover
+	$('.pm-profile-cover-preview').cropit({
+		smallImage: 'allow',
+		height: cropit_cover_height,
+		onImageLoading: function(){
+			cropit_cover_notify = $.notify({message: pm_lang.please_wait}, {type: cropit_notify_type});
+		},
+		onImageLoaded: function() {
+			cropit_cover_notify.close();
+		},
+		onImageError: function(){
+			cropit_cover_notify.close();
+		}
+	});
+
+	$('#btn-edit-cover').click(function() {
+		$('#cropit-cover-input').click();
+		$('#cropit-cover-form').css('visibility', 'visible');
+		$('.cropit-image-preview').removeClass('animated fadeIn');
+	});
+
+	$('.btn-cancel').click(function() {
+		$('.pm-profile-cover-preview .cropit-image-preview').removeClass('cropit-image-loaded').addClass('animated fadeIn');
+		$('#cropit-cover-form').css('visibility', 'hidden');
+		return false;
+	});
+
+	$('form#cropit-cover-form').submit(function() {
+		
+		var image_data = $('.pm-profile-cover-preview').cropit('export', {
+			type: 'image/jpeg',
+			quality: .9,
+			fillBg: '#333'
+		});
+		
+		// Move cropped image data to hidden input
+		$('.hidden-cover-data-img').val(image_data);
+		
+		$.ajax({
+			url: MELODYURL2 + "/ajax.php",
+			type: "POST",
+			dataType: "json",
+			data: $('#cropit-cover-form').serialize(),
+			beforeSend: function(jqXHR, settings) {
+				// clean error message container
+				//cropit_cover_notify.close();
+				$.notifyClose();
+				cropit_cover_notify = $.notify({message: pm_lang.swfupload_status_uploading}, {type: cropit_notify_type});
+			},
+		})
+		.done(function(data){
+			cropit_cover_notify.close();
+			if (data.success) { 
+				// hide form action buttons 
+				$('#cropit-cover-form').css('visibility', 'hidden');
+				
+				// reset background with uploaded image 
+				$('.pm-profile-cover-preview .cropit-image-preview img').attr('src', data.file_url);
+				
+				// stop image movement ability
+				$('.pm-profile-cover-preview .cropit-image-preview').addClass('animated fadeIn');
+				// timeout required to allow time for the uploaded image to load before removing the current image obj (and avoid a image-swapping 'glitch')
+				setTimeout(function(){
+					$('.pm-profile-cover-preview .cropit-image-preview').removeClass('cropit-image-loaded')
+				}, 700);
+				
+				// unload selected image to let the user re-select the same image
+				$('.pm-profile-cover-preview input.cropit-image-input')[0].value = null;
+			}
+			cropit_cover_notify = $.notify({message: data.msg}, {type: data.alert_type});
+		});
+
+		return false;
+	});
+});
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.seasons-sec > li').click(function() {
+		$('.seasons-sec > li').removeClass('active');
+		$(this).addClass('active');
+		$('.SeasonsEpisodes').hide();
+		$('.SeasonsEpisodes[data-season="' + $(this).data('season') + '"]').show();
+	});
+	function load_stream(url) {
+		if (!url || url == '') {
+			return;
+		}
+		$('.brooks_player iframe').attr('src', url);
+	};
+	
+	$('.WatchList li').click(function() {
+		
+		if ($(this).hasClass('active')) {
+			return;
+		}
+		var id = $(this).attr('data-embed-id');
+		var url = $(this).attr('data-embed-url');
+		
+		$('.WatchList li').removeClass('active');
+		$(this).addClass('active');
+		load_stream(url);
+		window.last_embed_id = id;
+	});
+});
+</script>
+
+
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4747521,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4747521&101" alt="web tracker" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+</html> 
